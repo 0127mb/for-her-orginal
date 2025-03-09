@@ -1,0 +1,5 @@
+img{width: 100px;height: 50px;}
+header div{ display: flex;align-items: center;  justify-content: space-evenly;}
+a{ text-decoration: none; color: black;} 
+a :active{ color: darkred; }
+body{ background-image: url(https://static.vecteezy.com/system/resources/previews/004/804/420/non_2x/march-8-background-design-women-s-day-greeting-text-with-march-8-in-purple-ribbon-and-camellia-flower-elements-for-international-women-s-celebration-illustration-vector.jpg);}
